@@ -36,7 +36,7 @@ However if you are serious about Polymer development, I recommend setting up Nod
 
 Resources Links:
 
-http://io2014codelabs.appspot.com/static/codelabs/polymer-build-maps/#1
+http://component.kitchen/components
 
 
 
